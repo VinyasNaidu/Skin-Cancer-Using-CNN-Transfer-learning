@@ -63,7 +63,7 @@ Skin cancer, particularly melanoma, poses a significant health risk. Early and a
 
 ## Challenges and Future Work
 ### Challenges
-- Class imbalance in the dataset led to a bias toward benign cases.
+- Veru high class imbalance in the dataset led to a bias toward benign cases.
 
 ### Future Directions
 - Explore synthetic data generation (e.g., GANs) and cost-sensitive learning.
