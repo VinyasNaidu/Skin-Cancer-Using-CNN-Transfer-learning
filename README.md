@@ -40,7 +40,9 @@ Skin cancer, particularly melanoma, poses a significant health risk. Early and a
 
 ### Models
 1. **Baseline CNN**:
-   - A simple CNN model for initial benchmarking.
+   - A simple CNN model with fune tuning for initial benchmarking.
+2. **Augmented CNN Model**
+   - CNN model after data Agumentation and then fine-tuned.
 2. **EfficientNetB0 and DenseNet121**:
    - Transfer learning with fine-tuning for improved performance and reduced training time.
 
